@@ -31,12 +31,7 @@ Preferred roles:
 6. Angular + Java Developer
 
 Preferred locations:
-- Dallas, TX
-- Irving, TX
-- Plano, TX
-- Farmers Branch, TX
-- Fort Worth, TX
-- Austin, TX
+- any location
 - Remote US
 
 Search sources:
@@ -51,7 +46,7 @@ Search rules:
 1. Find jobs posted or refreshed within the last 24 to 72 hours.
 2. Prioritize Java + Spring Boot + Microservices + Angular + AWS/Kubernetes jobs.
 3. Prioritize banking, finance, insurance, fintech, and enterprise application roles.
-4. Avoid pure frontend-only, pure QA, pure DevOps, Android-only, C++, embedded, data analyst, and unrelated roles.
+4. Avoid  pure QA, pure DevOps, Android-only, C++, embedded, data analyst, and unrelated roles.
 5. Remove duplicate jobs.
 6. Do not apply automatically.
 7. Select only the best matching jobs.
